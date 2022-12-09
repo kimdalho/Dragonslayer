@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "unit_name_greenGoblin",
+      "condition": 0,
+      "dropExp": 10,
+      "unitType": 0,
+      "stat": 1,
+      "atk": 3,
+      "health": 10,
+      "def": 1,
+      "attacktype": 0,
+      "speed": 60
+    },
+    {
+      "id": 1,
+      "name": "unit_name_redGoblin",
+      "condition": 0,
+      "dropExp": 10,
+      "unitType": 0,
+      "stat": 2,
+      "atk": 3,
+      "health": 10,
+      "def": 1,
+      "attacktype": 0,
+      "speed": 60
+    },
+    {
+      "id": 2,
+      "name": "unit_name_2",
+      "condition": 0,
+      "dropExp": 10,
+      "unitType": 0,
+      "stat": 3,
+      "atk": 3,
+      "health": 10,
+      "def": 1,
+      "attacktype": 0,
+      "speed": 60
+    },
+    {
+      "id": 3,
+      "name": "unit_name_3",
+      "condition": 1,
+      "dropExp": 10,
+      "unitType": 0,
+      "stat": 4,
+      "atk": 3,
+      "health": 10,
+      "def": 1,
+      "attacktype": 0,
+      "speed": 60
+    },
+    {
+      "id": 4,
+      "name": "unit_name_4",
+      "condition": 1,
+      "dropExp": 10,
+      "unitType": 0,
+      "stat": 5,
+      "atk": 3,
+      "health": 10,
+      "def": 1,
+      "attacktype": 0,
+      "speed": 60
+    },
+    {
+      "id": 5,
+      "name": "unit_name_5",
+      "condition": 3,
+      "dropExp": 10,
+      "unitType": 0,
+      "stat": 6,
+      "atk": 3,
+      "health": 10,
+      "def": 1,
+      "attacktype": 0,
+      "speed": 60
+    },
+    {
+      "id": 6,
+      "name": "unit_name_6",
+      "condition": 3,
+      "dropExp": 10,
+      "unitType": 0,
+      "stat": 7,
+      "atk": 3,
+      "health": 10,
+      "def": 1,
+      "attacktype": 0,
+      "speed": 60
+    },
+    {
+      "id": 7,
+      "name": "unit_name_7",
+      "condition": 4,
+      "dropExp": 10,
+      "unitType": 0,
+      "stat": 8,
+      "atk": 3,
+      "health": 10,
+      "def": 1,
+      "attacktype": 0,
+      "speed": 60
+    },
+    {
+      "id": 8,
+      "name": "unit_name_8",
+      "condition": 4,
+      "dropExp": 10,
+      "unitType": 0,
+      "stat": 9,
+      "atk": 3,
+      "health": 10,
+      "def": 1,
+      "attacktype": 0,
+      "speed": 60
+    }
+  ]
+}

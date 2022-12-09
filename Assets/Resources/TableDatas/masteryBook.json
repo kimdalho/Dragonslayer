@@ -1,0 +1,124 @@
+{
+  "masteryBook": [
+    {
+      "id": 0,
+      "rankFloor": 0,
+      "canactivate": 1,
+      "nextid": 3,
+      "cost": 300,
+      "statSkill": "stat_skill0"
+    },
+    {
+      "id": 1,
+      "rankFloor": 0,
+      "canactivate": 1,
+      "nextid": 4,
+      "cost": 300,
+      "statSkill": "stat_skill1"
+    },
+    {
+      "id": 2,
+      "rankFloor": 0,
+      "canactivate": 1,
+      "nextid": 5,
+      "cost": 300,
+      "statSkill": "stat_skill2"
+    },
+    {
+      "id": 3,
+      "rankFloor": 1,
+      "canactivate": 0,
+      "nextid": 6,
+      "cost": 600,
+      "statSkill": "stat_skill3"
+    },
+    {
+      "id": 4,
+      "rankFloor": 1,
+      "canactivate": 0,
+      "nextid": 7,
+      "cost": 600,
+      "statSkill": "stat_skill4"
+    },
+    {
+      "id": 5,
+      "rankFloor": 1,
+      "canactivate": 0,
+      "nextid": 8,
+      "cost": 600,
+      "statSkill": "stat_skill5"
+    },
+    {
+      "id": 6,
+      "rankFloor": 2,
+      "canactivate": 0,
+      "nextid": 9,
+      "cost": 900,
+      "statSkill": "stat_skill6"
+    },
+    {
+      "id": 7,
+      "rankFloor": 2,
+      "canactivate": 0,
+      "nextid": 10,
+      "cost": 900,
+      "statSkill": "stat_skill7"
+    },
+    {
+      "id": 8,
+      "rankFloor": 2,
+      "canactivate": 0,
+      "nextid": 11,
+      "cost": 900,
+      "statSkill": "stat_skill8"
+    },
+    {
+      "id": 9,
+      "rankFloor": 3,
+      "canactivate": 0,
+      "nextid": 12,
+      "cost": 1200,
+      "statSkill": "stat_skill9"
+    },
+    {
+      "id": 10,
+      "rankFloor": 3,
+      "canactivate": 0,
+      "nextid": 13,
+      "cost": 1200,
+      "statSkill": "stat_skill10"
+    },
+    {
+      "id": 11,
+      "rankFloor": 3,
+      "canactivate": 0,
+      "nextid": 14,
+      "cost": 1200,
+      "statSkill": "stat_skill11"
+    },
+    {
+      "id": 12,
+      "rankFloor": 4,
+      "canactivate": 0,
+      "nextid": 15,
+      "cost": 1500,
+      "statSkill": "stat_skill12"
+    },
+    {
+      "id": 13,
+      "rankFloor": 4,
+      "canactivate": 0,
+      "nextid": 16,
+      "cost": 1500,
+      "statSkill": "stat_skill13"
+    },
+    {
+      "id": 14,
+      "rankFloor": 4,
+      "canactivate": 0,
+      "nextid": 17,
+      "cost": 1500,
+      "statSkill": "stat_skill14"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "runeInfo": [
+    {
+      "id": 0,
+      "name": "rune_nam_0",
+      "testname": "공격 데미지 증가 룬_Lv1",
+      "type": "attack",
+      "level": 1,
+      "descrition": "rune_descrition_0",
+      "testdesc": "공격 데미지를 {0}% 증가합니다",
+      "value1": 2
+    },
+    {
+      "id": 1,
+      "name": "rune_nam_1",
+      "testname": "공격 데미지 증가 룬_Lv2",
+      "type": "attack",
+      "level": 2,
+      "descrition": "rune_descrition_1",
+      "testdesc": "공격 데미지를 {0}% 증가합니다",
+      "value1": 6
+    },
+    {
+      "id": 2,
+      "name": "rune_nam_2",
+      "testname": "공격 데미지 증가 룬_Lv3",
+      "type": "attack",
+      "level": 3,
+      "descrition": "rune_descrition_2",
+      "testdesc": "공격 데미지를 {0}% 증가합니다",
+      "value1": 10
+    },
+    {
+      "id": 3,
+      "name": "rune_nam_3",
+      "testname": "공격 투사체 속도 증가 룬_Lv1",
+      "type": "speed",
+      "level": 1,
+      "descrition": "rune_descrition_3",
+      "testdesc": "공격 투사체 속도를 {0}% 증가합니다",
+      "value1": 5
+    },
+    {
+      "id": 4,
+      "name": "rune_nam_4",
+      "testname": "공격 투사체 속도 증가 룬_Lv2",
+      "type": "speed",
+      "level": 2,
+      "descrition": "rune_descrition_4",
+      "testdesc": "공격 투사체 속도를 {0}% 증가합니다",
+      "value1": 10
+    },
+    {
+      "id": 5,
+      "name": "rune_nam_5",
+      "testname": "공격 투사체 속도 증가 룬_Lv3",
+      "type": "speed",
+      "level": 3,
+      "descrition": "rune_descrition_5",
+      "testdesc": "공격 투사체 속도를 {0}% 증가합니다",
+      "value1": 20
+    },
+    {
+      "id": 6,
+      "name": "rune_nam_6",
+      "testname": "성벽 체력 증가 룬_Lv1",
+      "type": "health",
+      "level": 1,
+      "descrition": "rune_descrition_6",
+      "testdesc": "성벽 체력을 {0}% 증가합니다",
+      "value1": 5
+    },
+    {
+      "id": 7,
+      "name": "rune_nam_7",
+      "testname": "성벽 체력 증가 룬_Lv2",
+      "type": "health",
+      "level": 2,
+      "descrition": "rune_descrition_7",
+      "testdesc": "성벽 체력을 {0}% 증가합니다",
+      "value1": 10
+    },
+    {
+      "id": 8,
+      "name": "rune_nam_8",
+      "testname": "성벽 체력 증가 룬_Lv3",
+      "type": "health",
+      "level": 3,
+      "descrition": "rune_descrition_8",
+      "testdesc": "성벽 체력을 {0}% 증가합니다",
+      "value1": 15
+    },
+    {
+      "id": 9,
+      "name": "rune_nam_9",
+      "testname": "공격 범위 증가 룬 Lv1",
+      "type": "range",
+      "level": 1,
+      "descrition": "rune_descrition_9",
+      "testdesc": "공격 범위를 {0}% 증가합니다",
+      "value1": 5
+    },
+    {
+      "id": 10,
+      "name": "rune_nam_10",
+      "testname": "공격 범위 증가 룬 Lv2",
+      "type": "range",
+      "level": 2,
+      "descrition": "rune_descrition_10",
+      "testdesc": "공격 범위를 {0}% 증가합니다",
+      "value1": 10
+    },
+    {
+      "id": 11,
+      "name": "rune_nam_11",
+      "testname": "공격 범위 증가 룬 Lv3",
+      "type": "range",
+      "level": 3,
+      "descrition": "rune_descrition_11",
+      "testdesc": "공격 범위를 {0}% 증가합니다",
+      "value1": 15
+    },
+    {
+      "id": 12,
+      "name": "rune_nam_12",
+      "testname": "특성 선택 요구 점수 하락 룬 Lv1",
+      "type": "condition",
+      "level": 1,
+      "descrition": "rune_descrition_12",
+      "testdesc": "특성 선택 요구치가 {0}% 하락합니다",
+      "value1": 3
+    },
+    {
+      "id": 13,
+      "name": "rune_nam_13",
+      "testname": "특성 선택 요구 점수 하락 룬 Lv2",
+      "type": "condition",
+      "level": 2,
+      "descrition": "rune_descrition_13",
+      "testdesc": "특성 선택 요구치가 {0}% 하락합니다",
+      "value1": 4
+    },
+    {
+      "id": 14,
+      "name": "rune_nam_14",
+      "testname": "특성 선택 요구 점수 하락 룬 Lv3",
+      "type": "condition",
+      "level": 3,
+      "descrition": "rune_descrition_14",
+      "testdesc": "특성 선택 요구치가 {0}% 하락합니다",
+      "value1": 5
+    }
+  ]
+}

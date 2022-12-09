@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "946973515963",
+    "firebase_url": "https://bow3-7402c-default-rtdb.firebaseio.com",
+    "project_id": "bow3-7402c",
+    "storage_bucket": "bow3-7402c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946973515963:android:c6df968e5e5142c6bbc99e",
+        "android_client_info": {
+          "package_name": "com.snail.bow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946973515963-55r6t25ju4t0n86vv8r773v3v5eotgto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHe1f2pAGquEcmUCHbXSCgZVQhJbPh5HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946973515963-55r6t25ju4t0n86vv8r773v3v5eotgto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
