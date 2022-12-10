@@ -3,18 +3,10 @@
 
 <img width="150" src="https://user-images.githubusercontent.com/73621658/161711654-dd92e728-7253-4d2f-b418-745cf0355ff5.png">
 
-<b>공식 사이트</b> : https://debate-talk.com <br/>
-FrontEnd GITHUB : https://github.com/jeonhaekang/dalk_debateTalk <br />
-BackEnd GITHUB : https://github.com/raddaslul/dalk.git <br />
-소개 영상 : https://www.youtube.com/watch?v=0pZMK9UqOqA <br />
-
 # 🗂 프로젝트 소개
-
-- 개발 기간 : 2022.02.25 ~ 2022.04.08
-- 개발 언어 : Javascript
-- 개발 프레임워크 : React
-- 배포 환경 : AWS Amplify
-- 협업 툴 : Git / Notion / Figma / Slack
+- 개발 기간 : 2022.11.25 ~ 2022.12.10
+- 개발 툴 : Unity
+- 이외 툴 : Git / Notion / Figma / Slack / Trello
   <br />
 
 
