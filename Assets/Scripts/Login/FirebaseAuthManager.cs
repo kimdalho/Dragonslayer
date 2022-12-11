@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using UnityEngine;
 using TMPro;
 using System.Runtime.CompilerServices;
-using System.Drawing.Design;
 
 public class FirebaseAuthManager : MonoBehaviour
 {

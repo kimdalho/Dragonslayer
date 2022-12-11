@@ -36,8 +36,11 @@ public class SceneContianer : Singleton<SceneContianer>
                 break;
             case eScenes.InGameScene:
                 curScene = eScenes.InGameScene;
-                //cash = "4.GameScene";
-                cash = "3DMap";
+                cash = "4.GameScene";
+                break;
+            case eScenes.InGamePvPScene:
+                curScene = eScenes.InGameScene;
+                cash = "4.NetworkGame";
                 break;
         }
         SceneLoading.str = cash;

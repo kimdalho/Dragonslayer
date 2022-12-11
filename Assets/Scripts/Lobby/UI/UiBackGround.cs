@@ -9,13 +9,10 @@ public class UiBackGround : UI_Base
     public override void Init()
     {
         Bind<Image>(typeof(eImages));
-        Debug.Log($"{GetBackGroundImage().name} I'm in here");
+      //  Debug.Log($"{GetBackGroundImage().name} I'm in here");
     }
 
    
-    public Image GetBackGroundImage()
-    {
-        return Get<Image>("BACKGROUND_IMAGE");
-    }
+
 }
 
