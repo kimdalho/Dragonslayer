@@ -32,7 +32,8 @@ public class GameManager : Singleton<GameManager>
     public Dictionary<int, int> levelList;
     public Action refreshCallback;
 
-
+    public Player[] players;
+    public Player curPlayer;
 
     public ePlayStep curStep
     {
@@ -43,9 +44,10 @@ public class GameManager : Singleton<GameManager>
     public ePlayStep _curStep;
 
 
-
+    //이거 날린다.
     public AiPlayer aiPlayer;
     public CharacterMovement player;
+
     public Action<BaseSkill> arrowUpgradAction;
 
     private void OnEnable()

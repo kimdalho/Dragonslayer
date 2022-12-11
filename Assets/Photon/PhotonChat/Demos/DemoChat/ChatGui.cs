@@ -473,7 +473,7 @@ namespace Photon.Chat.Demo
         /// <inheritdoc />
         public void OnSubscribed(string channel, string[] users, Dictionary<object, object> properties)
         {
-            UnityEngine.Debug.LogFormat("OnSubscribed: {0}, users.Count: {1} Channel-props: {2}.", channel, users.Length, properties.ToStringFull());
+           UnityEngine.Debug.LogFormat("OnSubscribed: {0}, users.Count: {1} Channel-props: {2}.", channel, users.Length, properties.ToStringFull());
         }
 
         private void InstantiateChannelButton(string channelName)
@@ -585,7 +585,7 @@ namespace Photon.Chat.Demo
 
         public void OnUserSubscribed(string channel, string user)
         {
-          UnityEngine. Debug.LogFormat("OnUserSubscribed: channel=\"{0}\" userId=\"{1}\"", channel, user);
+            UnityEngine.Debug.LogFormat("OnUserSubscribed: channel=\"{0}\" userId=\"{1}\"", channel, user);
         }
 
         public void OnUserUnsubscribed(string channel, string user)

@@ -24,6 +24,8 @@ public class BowViewer : UI_Base
         StatusRange = 2,
     }
 
+    public TextMeshProUGUI gameLabe;
+
     enum eTmp
     {
         TitleTmp = 0,
@@ -134,5 +136,18 @@ public class BowViewer : UI_Base
         PlayerPrefs.SetInt(ePPType.User_Bow.ToString(), loadData);
         BowInfoData viewInfo = TableContainer.bowInfoDataMgr.GetBowInfoData((int)loadData);
         RefreshUi(viewInfo);
+    }
+
+
+    public void OnClickedGameTypeLeftButton()
+    {
+        LobbyUiManager.Instance.curGameType = eGameType.SingleGame;
+        gameLabe.text = "SingleGame";
+    }
+
+    public void OnClickedGameTypeRightButton()
+    {
+        LobbyUiManager.Instance.curGameType = eGameType.MultyGame;
+        gameLabe.text = "PvPGame";
     }
 }

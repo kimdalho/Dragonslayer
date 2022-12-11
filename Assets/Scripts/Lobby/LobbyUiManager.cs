@@ -34,6 +34,7 @@ public class LobbyUiManager : Singleton<LobbyUiManager>
     [SerializeField]
     ShopButton shopButton;
 
+    public eGameType curGameType;
 
     public List<Equip> EquopList;
     public Transform instantUi;

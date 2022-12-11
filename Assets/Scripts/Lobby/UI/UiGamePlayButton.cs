@@ -21,7 +21,16 @@ public class UiGamePlayButton : UI_Base
 
     public void OnClickedGameStart()
     {
-        SceneContianer.Instance.LoadScene(eScenes.InGameScene);
+        switch(LobbyUiManager.Instance.curGameType)
+        {
+            case eGameType.SingleGame:
+                SceneContianer.Instance.LoadScene(eScenes.InGameScene);
+                break;
+            case eGameType.MultyGame:
+                SceneContianer.Instance.LoadScene(eScenes.InGamePvPScene);
+                break;
+        }
+        
     }
 }
 

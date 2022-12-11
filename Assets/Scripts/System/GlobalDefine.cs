@@ -88,7 +88,7 @@ public enum eScenes
     Loading = 1,
     LobbyScene = 2,
     InGameScene = 3,
-
+    InGamePvPScene = 4,
 }
 
 public enum ePopupType

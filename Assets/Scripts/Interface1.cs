@@ -6,9 +6,8 @@ using UnityEngine.Rendering;
 
 public enum eGameType
 {
-    None = -1, //현 게임상태가 존재하지않다면 상태는 항상 None을 의미해야한다.
-    Default = 0, //기본 디펜싱의 기능만을 가지고있는 게임타입을 의미한다.
-    Special = 1, //특수 기능의 게임이다 추후 확장성을 위해 남겨둔다.
+    SingleGame = 0,
+    MultyGame = 1,
 }
 
 public interface IDontwork
