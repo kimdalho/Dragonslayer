@@ -8,7 +8,7 @@
   <br />
 <br />
 
-<b>기술서 블로그</b> : https://debate-talk.com <br/>
+<b>기술서 블로그</b> : https://helloworld0513.tistory.com/1 <br/>
 
 # ✔ 핵심 기능
 
