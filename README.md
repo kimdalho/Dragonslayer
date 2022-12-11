@@ -36,7 +36,7 @@
 
 
 </details>
-
+https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?attach=1&knm=tfile.mp4
 <br />
 
 # 🧩 아키텍쳐
