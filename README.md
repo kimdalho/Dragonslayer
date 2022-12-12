@@ -50,4 +50,23 @@ https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?att
 
 # ⛔️ 트러블 슈팅
 
-## 1. 채팅방 입력 메세지 미출력 에러
+## 1. 포톤 CreateRoom 미동작 에러
+포톤에서 지원해주는 함수의 존재여부를 알지못해 발생한 오류였습니다
+OnConnectedToServer를 이용하여 Connect를 체크하였지만 해당 함수를 콜하지 못해 방을 생성하지않는 이슈였습니다.
+다양한 트러블 슈팅과 도큐먼트를 찾아 override void OnConnectedToMaster() 함수를 포톤에서 지원해준다는것을 뒤 늦게 알게되었습니다.
+
+ 
+```
+    public override void OnConnectedToMaster()
+    {
+        PhotonNetwork.LocalPlayer.NickName = InputField.text;
+        PhotonNetwork.JoinOrCreateRoom("Room", new RoomOptions { MaxPlayers = 6 }, null);
+        Debug.Log("연결");
+    }
+
+    private void OnConnectedToServer()
+    {
+        
+    }
+```
+
