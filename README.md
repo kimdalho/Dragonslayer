@@ -42,7 +42,7 @@ https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?att
 <br />
 </details>
 ## 로비 씬
-https://user-images.githubusercontent.com/49323810/207049525-160b3cf7-57c4-48d6-ac87-af387f0e3bc2.gif
+<img src= "https://user-images.githubusercontent.com/49323810/207049525-160b3cf7-57c4-48d6-ac87-af387f0e3bc2.gif" alt="demo" width="80%" />
 <br />
 # 🧩 아키텍쳐
 </div>
