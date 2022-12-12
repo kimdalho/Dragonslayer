@@ -15,10 +15,10 @@
 # ✔ 핵심 기능
 
 > ### 💬 타워 디펜싱과 공격을 함께는 1대1 실시간 멀티 플레이 시스템
-
+- 석궁을 컨트롤하여 몰려오는 몬스터로부터 타워를 지키세요!
 - 지금 소환해야할 유닛을 신중히 선택하세요!
 - 유닛의 소환도 중요하지만 당신의 타워를 지키는것도 잊지마세요!
-
+ 
   <br/>
 > ### 🎰 복잡하지 않은 전략적 요소
 > 
@@ -42,6 +42,8 @@ https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?att
 </details>
 <img src= "https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?attach=1&knm=tfile.mp4" alt="demo" width="30%" />
 </details>
+
+<img src= "https://user-images.githubusercontent.com/49323810/207057087-0ebf91b2-6ae2-41d2-b688-18ba273f59bc.gif" alt="demo" width="30%" />
 
 ## 로비 씬
 
