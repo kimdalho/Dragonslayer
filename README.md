@@ -38,9 +38,9 @@
 
 <details>
     <summary>펼치기</summary>
-|                                                                토론방 채팅                                                                 |                                                                밸런스 투표                                                                 |                                                                아이템 사용                                                                 |
-https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?attach=1&knm=tfile.mp4
 
+https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?attach=1&knm=tfile.mp4
+| :--------------------------------: | :--------------------------------: | :--------------------------------:
 <img src= "https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?attach=1&knm=tfile.mp4" alt="demo" width="30%" />
 
 
