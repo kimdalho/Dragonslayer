@@ -8,6 +8,8 @@
   <br />
 <br />
 
+<img width="400" src="https://user-images.githubusercontent.com/49323810/206891612-58054672-d562-48af-b9a5-a8a1ab002137.png">
+
 <b>기술서 블로그</b> : https://helloworld0513.tistory.com/1 <br/>
 
 # ✔ 핵심 기능
