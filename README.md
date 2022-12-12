@@ -40,9 +40,9 @@
     <summary>펼치기</summary>
 
 https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?attach=1&knm=tfile.mp4
-|         석궁 컨트롤 시스템           |               로비                 |              레벨업 시스템          |
-| :--------------------------------: | :--------------------------------: | :--------------------------------: |
-|<img src= "https://user-images.githubusercontent.com/49323810/207057087-0ebf91b2-6ae2-41d2-b688-18ba273f59bc.gif" alt="demo" width="55%" />|<img src= "https://user-images.githubusercontent.com/49323810/207049525-160b3cf7-57c4-48d6-ac87-af387f0e3bc2.gif" alt="demo" width="73%" /> |<img src= "https://user-images.githubusercontent.com/49323810/207061371-a72b197c-373e-48bd-8b81-7a075c5403a2.gif" alt="demo" width="55%" />
+|         석궁 컨트롤 시스템           |               로비                 |              레벨업 시스템          |             장비창 및 아이템 장착         |
+| :--------------------------------: | :--------------------------------: | :--------------------------------: |------------------------------------------|
+|<img src= "https://user-images.githubusercontent.com/49323810/207057087-0ebf91b2-6ae2-41d2-b688-18ba273f59bc.gif" alt="demo" width="55%" />|<img src= "https://user-images.githubusercontent.com/49323810/207049525-160b3cf7-57c4-48d6-ac87-af387f0e3bc2.gif" alt="demo" width="73%" /> |<img src= "https://user-images.githubusercontent.com/49323810/207061371-a72b197c-373e-48bd-8b81-7a075c5403a2.gif" alt="demo" width="55%" /> |<img src= "https://user-images.githubusercontent.com/49323810/207065593-ee06cd61-82f2-493e-bc77-3fe4b99470f2.gif" alt="demo" width="55%" />
 
 </details>
 
