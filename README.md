@@ -38,11 +38,11 @@
 
 <details>
     <summary>펼치기</summary>
-
+|                                                                토론방 채팅                                                                 |                                                                밸런스 투표                                                                 |                                                                아이템 사용                                                                 |
 https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?attach=1&knm=tfile.mp4
-</details>
+
 <img src= "https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?attach=1&knm=tfile.mp4" alt="demo" width="30%" />
-</details>
+
 
 <img src= "https://user-images.githubusercontent.com/49323810/207057087-0ebf91b2-6ae2-41d2-b688-18ba273f59bc.gif" alt="demo" width="30%" />
 
