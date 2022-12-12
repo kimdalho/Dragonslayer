@@ -40,10 +40,11 @@
 </details>
 https://blog.kakaocdn.net/dn/eq2B1S/btrTqDb9heQ/wDfHunR7DXCc3a3Uf3YZA1/1.mp4?attach=1&knm=tfile.mp4
 <br />
-
+</details>
+## 로비 씬
+https://user-images.githubusercontent.com/49323810/207049525-160b3cf7-57c4-48d6-ac87-af387f0e3bc2.gif
+<br />
 # 🧩 아키텍쳐
-
-
 </div>
 <img width="400" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbtmvpr%2FbtrThOT344F%2FDCksbR6arzw1AVZ3jnZIvk%2Fimg.png">
 <br />
